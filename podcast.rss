@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily News Briefing</title>
+    <link>https://github.com/powerfulTommy/daily-news-briefing</link>
+    <description>Twice-daily audio news briefing covering AI, technology, global politics, and financial markets. Delivered every morning and afternoon at Taipei time.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Apr 2026 12:31:17 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/powerfulTommy/daily-news-briefing/main/podcast.rss" rel="self" type="application/rss+xml"/>
+    <itunes:author>Daily News Briefing</itunes:author>
+    <itunes:summary>Twice-daily audio news briefing covering AI, technology, global politics, and financial markets. Delivered every morning and afternoon at Taipei time.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News"/>
+    <itunes:owner>
+      <itunes:name>Daily News Briefing</itunes:name>
+    </itunes:owner>
+    <item>
+      <title>Afternoon Briefing — April 7, 2026</title>
+      <description>Your afternoon news briefing for April 7, 2026. Covers AI, technology, global politics, and financial markets. Published at 2 PM Taipei time.</description>
+      <pubDate>Tue, 07 Apr 2026 14:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/powerfulTommy/daily-news-briefing/main/briefing_2026-04-07_afternoon.mp3" length="11136570" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/powerfulTommy/daily-news-briefing/main/briefing_2026-04-07_afternoon.mp3</guid>
+      <itunes:title>Afternoon Briefing — April 7, 2026</itunes:title>
+      <itunes:duration>300</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Morning Briefing — April 7, 2026</title>
+      <description>Your morning news briefing for April 7, 2026. Covers AI, technology, global politics, and financial markets. Published at 8 AM Taipei time.</description>
+      <pubDate>Tue, 07 Apr 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/powerfulTommy/daily-news-briefing/main/briefing_2026-04-07_morning.mp3" length="11931450" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/powerfulTommy/daily-news-briefing/main/briefing_2026-04-07_morning.mp3</guid>
+      <itunes:title>Morning Briefing — April 7, 2026</itunes:title>
+      <itunes:duration>300</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Afternoon Briefing — April 6, 2026</title>
+      <description>Your afternoon news briefing for April 6, 2026. Covers AI, technology, global politics, and financial markets. Published at 2 PM Taipei time.</description>
+      <pubDate>Mon, 06 Apr 2026 14:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/powerfulTommy/daily-news-briefing/main/briefing_2026-04-06_afternoon.mp3" length="9938490" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/powerfulTommy/daily-news-briefing/main/briefing_2026-04-06_afternoon.mp3</guid>
+      <itunes:title>Afternoon Briefing — April 6, 2026</itunes:title>
+      <itunes:duration>300</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Morning Briefing — April 6, 2026</title>
+      <description>Your morning news briefing for April 6, 2026. Covers AI, technology, global politics, and financial markets. Published at 8 AM Taipei time.</description>
+      <pubDate>Mon, 06 Apr 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/powerfulTommy/daily-news-briefing/main/briefing_2026-04-06_morning.mp3" length="9007290" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/powerfulTommy/daily-news-briefing/main/briefing_2026-04-06_morning.mp3</guid>
+      <itunes:title>Morning Briefing — April 6, 2026</itunes:title>
+      <itunes:duration>300</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
