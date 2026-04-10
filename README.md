@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/powerfulTommy/daily-news-briefing/main/podcast
 
 | Episode | Published |
 |---------|-----------|
+| Morning Briefing — April 10, 2026 | Apr 10, 2026 |
 | Afternoon Briefing — April 9, 2026 | Apr 9, 2026 |
 | Morning Briefing — April 9, 2026 | Apr 9, 2026 |
 | Afternoon Briefing — April 8, 2026 | Apr 8, 2026 |
-| Morning Briefing — April 8, 2026 | Apr 8, 2026 |
